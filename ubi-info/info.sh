@@ -8,3 +8,4 @@ grep '^Mem' /proc/meminfo
 echo
 echo '--- Mounted file systems (partial)'
 df -h
+sleep 10000000
